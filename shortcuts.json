@@ -1,0 +1,11 @@
+{
+    "shortcuts": [
+        {
+            "type": ["copy", "kopieren", "c"],
+            "windows": "strg + c",
+            "mac": "command + c"
+        }
+    ],
+    "status": 200,
+    "success": true
+}
