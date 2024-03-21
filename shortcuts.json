@@ -4,6 +4,11 @@
             "type": ["copy", "kopieren", "c"],
             "windows": "strg + c",
             "mac": "command + c"
+        },
+        {
+            "type": ["test"],
+            "windows": "test",
+            "mac": "test"
         }
     ],
     "status": 200,
