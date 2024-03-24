@@ -24,6 +24,11 @@
             "type": ["close window/instance"],
             "windows": "strg + shift + W",
             "mac": ""
+        },
+        {
+            "type": ["user settings"],
+            "windows": "strg + ,",
+            "mac": ""
         }
 
     ],
