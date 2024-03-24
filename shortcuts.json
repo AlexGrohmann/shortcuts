@@ -120,6 +120,11 @@
             "windows": "strg + K + strg + [",
             "mac": ""
         },
+        {
+            "type": ["unfold all subregions", "uncollapse all subregions"],
+            "windows": "strg + K + strg + ]",
+            "mac": ""
+        },
 
     ],
     "status": 200,
