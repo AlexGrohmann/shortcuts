@@ -54,6 +54,11 @@
             "type": ["copy line up/down"],
             "windows": "shift + alt + key[up,down]",
             "mac": ""
+        },
+        {
+            "type": ["delete line"],
+            "windows": "strg + shift + K",
+            "mac": ""
         }
 
     ],
