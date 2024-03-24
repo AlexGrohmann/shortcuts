@@ -49,6 +49,11 @@
             "type": ["move line up/down"],
             "windows": "alt + key[up,down]",
             "mac": ""
+        },
+        {
+            "type": ["copy line up/down"],
+            "windows": "shift + alt + key[up,down]",
+            "mac": ""
         }
 
     ],
