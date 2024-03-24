@@ -9,7 +9,13 @@
             "type": ["show Command Palette", "--help"],
             "windows": "strg + shift + P or F1",
             "mac": ""
+        },
+        {
+            "type": ["quick open", "go to file"],
+            "windows": "strg + P",
+            "mac": ""
         }
+
     ],
     "status": 200,
     "success": true
