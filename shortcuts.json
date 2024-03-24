@@ -194,6 +194,11 @@
             "type": ["go to previous error or warning"],
             "windows": "shift + F8",
             "mac": ""
+        },
+        {
+            "type": ["navigate editor group history"],
+            "windows": "strg + shift + Tab",
+            "mac": ""
         }
 
     ],
