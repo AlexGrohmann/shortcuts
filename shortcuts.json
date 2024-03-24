@@ -69,6 +69,11 @@
             "type": ["insert line above"],
             "windows": "strg + shift + Enter",
             "mac": ""
+        },
+        {
+            "type": ["jump to matching bracket"],
+            "windows": "strg + shift + [reversed /]",
+            "mac": ""
         }
 
     ],
