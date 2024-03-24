@@ -184,6 +184,11 @@
             "type": ["show problems panel"],
             "windows": "strg + shift + M",
             "mac": ""
+        },
+        {
+            "type": ["go to next error or warning"],
+            "windows": "F8",
+            "mac": ""
         }
 
     ],
