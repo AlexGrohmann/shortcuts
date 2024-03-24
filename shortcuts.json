@@ -199,6 +199,11 @@
             "type": ["navigate editor group history"],
             "windows": "strg + shift + Tab",
             "mac": ""
+        },
+        {
+            "type": ["go back / forward"],
+            "windows": "alt + arrow[left/right]",
+            "mac": ""
         }
 
     ],
