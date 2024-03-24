@@ -155,6 +155,11 @@
             "windows": "shift + alt + A",
             "mac": ""
         },
+        {
+            "type": ["toggle word wrap"],
+            "windows": "alt + Z",
+            "mac": ""
+        }
 
     ],
     "status": 200,
