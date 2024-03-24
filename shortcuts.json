@@ -150,6 +150,11 @@
             "windows": "strg + /",
             "mac": ""
         },
+        {
+            "type": ["toggle block comment"],
+            "windows": "shift + alt + A",
+            "mac": ""
+        },
 
     ],
     "status": 200,
