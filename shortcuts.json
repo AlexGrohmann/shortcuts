@@ -74,6 +74,11 @@
             "type": ["jump to matching bracket"],
             "windows": "strg + shift + [reversed /]",
             "mac": ""
+        },
+        {
+            "type": ["indent/outdent line"],
+            "windows": "strg + ] / [",
+            "mac": ""
         }
 
     ],
