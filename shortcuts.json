@@ -59,6 +59,11 @@
             "type": ["delete line"],
             "windows": "strg + shift + K",
             "mac": ""
+        },
+        {
+            "type": ["insert line below"],
+            "windows": "strg + Enter",
+            "mac": ""
         }
 
     ],
