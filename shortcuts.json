@@ -64,6 +64,11 @@
             "type": ["insert line below"],
             "windows": "strg + Enter",
             "mac": ""
+        },
+        {
+            "type": ["insert line above"],
+            "windows": "strg + shift + Enter",
+            "mac": ""
         }
 
     ],
