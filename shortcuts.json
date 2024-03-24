@@ -8,157 +8,157 @@
         {
             "type": ["show Command Palette", "--run"],
             "windows": "strg + shift + P or F1",
-            "mac": ""
+            "mac": "⇧⌘P, F1"
         },
         {
             "type": ["quick open", "go to file"],
             "windows": "strg + P",
-            "mac": ""
+            "mac": "⌘P"
         },
         {
             "type": ["new window/instance"],
             "windows": "strg + shift + N",
-            "mac": ""
+            "mac": "⇧⌘N"
         },
         {
             "type": ["close window/instance"],
             "windows": "strg + shift + W",
-            "mac": ""
+            "mac": "⌘W"
         },
         {
             "type": ["user settings"],
             "windows": "strg + ,",
-            "mac": ""
+            "mac": "⌘,"
         },
         {
             "type": ["keyboard shortcuts", "--help"],
             "windows": "strg + K strg + S",
-            "mac": ""
+            "mac": "⌘K ⌘S"
         },
         {
             "type": ["Cut line"],
             "windows": "strg + X",
-            "mac": ""
+            "mac": "⌘X"
         },
         {
             "type": ["Copy line"],
             "windows": "strg + C",
-            "mac": ""
+            "mac": "⌘C"
         },
         {
             "type": ["move line up/down"],
             "windows": "alt + key[up,down]",
-            "mac": ""
+            "mac": "⌥↓ / ⌥↑"
         },
         {
             "type": ["copy line up/down"],
             "windows": "shift + alt + key[up,down]",
-            "mac": ""
+            "mac": "⇧⌥↓ / ⇧⌥↑"
         },
         {
             "type": ["delete line"],
             "windows": "strg + shift + K",
-            "mac": ""
+            "mac": "⇧⌘K"
         },
         {
             "type": ["insert line below"],
             "windows": "strg + Enter",
-            "mac": ""
+            "mac": "⌘Enter"
         },
         {
             "type": ["insert line above"],
             "windows": "strg + shift + Enter",
-            "mac": ""
+            "mac": "⇧⌘Enter"
         },
         {
             "type": ["jump to matching bracket"],
             "windows": "strg + shift + [reversed /]",
-            "mac": ""
+            "mac": "⇧⌘[backshift]"
         },
         {
             "type": ["indent/outdent line"],
             "windows": "strg + ] / [",
-            "mac": ""
+            "mac": "⌘] / ⌘["
         },
         {
             "type": ["go to beginning/end of line"],
             "windows": "Home / end",
-            "mac": ""
+            "mac": "Home / End"
         },
         {
             "type": ["go to beginning of file"],
             "windows": "strg + Home",
-            "mac": ""
+            "mac": "⌘↑"
         },
         {
             "type": ["go to end of file"],
             "windows": "strg + End",
-            "mac": ""
+            "mac": "⌘↓"
         },
         {
             "type": ["Scroll line up/down"],
             "windows": "strg + key[up/down]",
-            "mac": ""
+            "mac": "⌃PgUp / ⌃PgDn"
         },
         {
             "type": ["scroll page up/down"],
             "windows": "alt + PgUp /PgDn",
-            "mac": ""
+            "mac": "⌘PgUp /⌘PgDn"
         },
         {
             "type": ["fold region", "collapse region"],
             "windows": "strg + shift + [",
-            "mac": ""
+            "mac": "⌥⌘["
         },
         {
             "type": ["unfold region", "uncollapse region"],
             "windows": "strg + shift + ]",
-            "mac": ""
+            "mac": "⌥⌘]"
         },
         {
             "type": ["fold all subregions", "collapse all subregions"],
             "windows": "strg + K strg + [",
-            "mac": ""
+            "mac": "⌘K ⌘["
         },
         {
             "type": ["unfold all subregions", "uncollapse all subregions"],
             "windows": "strg + K strg + ]",
-            "mac": ""
+            "mac": "⌘K ⌘]"
         },
         {
             "type": ["fold all regions", "collapse all regions"],
             "windows": "strg + K strg + O",
-            "mac": ""
+            "mac": "⌘K ⌘O"
         },
         {
             "type": ["unfold all regions", "uncollapse all regions"],
             "windows": "strg + K strg + J",
-            "mac": ""
+            "mac": "⌘K ⌘J"
         },
         {
             "type": ["add line comment"],
             "windows": "strg + K strg + C",
-            "mac": ""
+            "mac": "⌘K ⌘C"
         },
         {
             "type": ["remove line comment"],
             "windows": "strg + K strg + C",
-            "mac": ""
+            "mac": "⌘K ⌘U"
         },
         {
             "type": ["toggle line comment"],
             "windows": "strg + /",
-            "mac": ""
+            "mac": "⌘/"
         },
         {
             "type": ["toggle block comment"],
             "windows": "shift + alt + A",
-            "mac": ""
+            "mac": "⇧⌥A"
         },
         {
             "type": ["toggle word wrap"],
             "windows": "alt + Z",
-            "mac": ""
+            "mac": "⌥Z"
         }
 
     ],
