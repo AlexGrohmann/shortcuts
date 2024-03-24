@@ -164,6 +164,11 @@
             "type": ["show all symbols"],
             "windows": "strg + T",
             "mac": ""
+        },
+        {
+            "type": ["go to line"],
+            "windows": "strg + G",
+            "mac": ""
         }
 
     ],
