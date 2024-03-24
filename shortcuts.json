@@ -189,6 +189,11 @@
             "type": ["go to next error or warning"],
             "windows": "F8",
             "mac": ""
+        },
+        {
+            "type": ["go to previous error or warning"],
+            "windows": "shift + F8",
+            "mac": ""
         }
 
     ],
