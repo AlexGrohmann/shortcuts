@@ -79,6 +79,11 @@
             "type": ["indent/outdent line"],
             "windows": "strg + ] / [",
             "mac": ""
+        },
+        {
+            "type": ["go to beginning/end of line"],
+            "windows": "Home / end",
+            "mac": ""
         }
 
     ],
