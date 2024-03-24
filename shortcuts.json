@@ -159,6 +159,11 @@
             "type": ["toggle word wrap"],
             "windows": "alt + Z",
             "mac": "⌥Z"
+        },
+        {
+            "type": ["show all symbols"],
+            "windows": "strg + T",
+            "mac": ""
         }
 
     ],
