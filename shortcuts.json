@@ -115,6 +115,11 @@
             "windows": "strg + shift + ]",
             "mac": ""
         },
+        {
+            "type": ["fold all subregions", "collapse all subregions"],
+            "windows": "strg + K + strg + [",
+            "mac": ""
+        },
 
     ],
     "status": 200,
