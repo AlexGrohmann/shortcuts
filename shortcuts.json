@@ -145,6 +145,11 @@
             "windows": "strg + K strg + C",
             "mac": ""
         },
+        {
+            "type": ["toggle line comment"],
+            "windows": "strg + /",
+            "mac": ""
+        },
 
     ],
     "status": 200,
