@@ -179,6 +179,11 @@
             "type": ["go to symbol"],
             "windows": "strg + shift + O",
             "mac": ""
+        },
+        {
+            "type": ["show problems panel"],
+            "windows": "strg + shift + M",
+            "mac": ""
         }
 
     ],
