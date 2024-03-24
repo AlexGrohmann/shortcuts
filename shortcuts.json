@@ -6,7 +6,7 @@
             "mac": "command + c"
         },
         {
-            "type": ["show Command Palette", "--help"],
+            "type": ["show Command Palette", "--run"],
             "windows": "strg + shift + P or F1",
             "mac": ""
         },
@@ -28,6 +28,11 @@
         {
             "type": ["user settings"],
             "windows": "strg + ,",
+            "mac": ""
+        },
+        {
+            "type": ["keyboard shortcuts", "--help"],
+            "windows": "strg + K strg + S",
             "mac": ""
         }
 
