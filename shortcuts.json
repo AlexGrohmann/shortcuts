@@ -130,6 +130,16 @@
             "windows": "strg + K strg + O",
             "mac": ""
         },
+        {
+            "type": ["unfold all regions", "uncollapse all regions"],
+            "windows": "strg + K strg + J",
+            "mac": ""
+        },
+        {
+            "type": ["add line comment"],
+            "windows": "strg + K strg + C",
+            "mac": ""
+        },
 
     ],
     "status": 200,
