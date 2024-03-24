@@ -19,6 +19,11 @@
             "type": ["new window/instance"],
             "windows": "strg + shift + N",
             "mac": ""
+        },
+        {
+            "type": ["close window/instance"],
+            "windows": "strg + shift + W",
+            "mac": ""
         }
 
     ],
