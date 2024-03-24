@@ -6,9 +6,9 @@
             "mac": "command + c"
         },
         {
-            "type": ["test"],
-            "windows": "test",
-            "mac": "test"
+            "type": ["show Command Palette", "--help"],
+            "windows": "strg + shift + P or F1",
+            "mac": ""
         }
     ],
     "status": 200,
