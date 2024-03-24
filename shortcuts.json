@@ -163,52 +163,52 @@
         {
             "type": ["show all symbols"],
             "windows": "strg + T",
-            "mac": ""
+            "mac": "⌘T"
         },
         {
             "type": ["go to line"],
             "windows": "strg + G",
-            "mac": ""
+            "mac": "⌃G"
         },
         {
             "type": ["go to file"],
             "windows": "strg + P",
-            "mac": ""
+            "mac": "⌘P"
         },
         {
             "type": ["go to symbol"],
             "windows": "strg + shift + O",
-            "mac": ""
+            "mac": "⇧⌘O"
         },
         {
             "type": ["show problems panel"],
             "windows": "strg + shift + M",
-            "mac": ""
+            "mac": "⇧⌘M"
         },
         {
             "type": ["go to next error or warning"],
             "windows": "F8",
-            "mac": ""
+            "mac": "F8"
         },
         {
             "type": ["go to previous error or warning"],
             "windows": "shift + F8",
-            "mac": ""
+            "mac": " ⇧F8"
         },
         {
             "type": ["navigate editor group history"],
             "windows": "strg + shift + Tab",
-            "mac": ""
+            "mac": "⌃⇧Tab"
         },
         {
             "type": ["go back / forward"],
             "windows": "alt + arrow[left/right]",
-            "mac": ""
+            "mac": "⌃- / ⌃⇧-"
         },
         {
             "type": ["toggle tab moves focus"],
             "windows": "strg + M",
-            "mac": ""
+            "mac": "⌃⇧M"
         }
 
     ],
