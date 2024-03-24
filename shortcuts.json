@@ -204,6 +204,11 @@
             "type": ["go back / forward"],
             "windows": "alt + arrow[left/right]",
             "mac": ""
+        },
+        {
+            "type": ["toggle tab moves focus"],
+            "windows": "strg + M",
+            "mac": ""
         }
 
     ],
