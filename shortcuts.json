@@ -99,6 +99,11 @@
             "type": ["Scroll line up/down"],
             "windows": "strg + key[up/down]",
             "mac": ""
+        },
+        {
+            "type": ["scroll page up/down"],
+            "windows": "alt + PgUp /PgDn",
+            "mac": ""
         }
 
     ],
