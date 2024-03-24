@@ -84,6 +84,11 @@
             "type": ["go to beginning/end of line"],
             "windows": "Home / end",
             "mac": ""
+        },
+        {
+            "type": ["go to beginning of file"],
+            "windows": "strg + Home",
+            "mac": ""
         }
 
     ],
