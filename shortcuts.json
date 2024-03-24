@@ -117,12 +117,12 @@
         },
         {
             "type": ["fold all subregions", "collapse all subregions"],
-            "windows": "strg + K + strg + [",
+            "windows": "strg + K strg + [",
             "mac": ""
         },
         {
             "type": ["unfold all subregions", "uncollapse all subregions"],
-            "windows": "strg + K + strg + ]",
+            "windows": "strg + K strg + ]",
             "mac": ""
         },
         {
@@ -137,6 +137,11 @@
         },
         {
             "type": ["add line comment"],
+            "windows": "strg + K strg + C",
+            "mac": ""
+        },
+        {
+            "type": ["remove line comment"],
             "windows": "strg + K strg + C",
             "mac": ""
         },
