@@ -14,6 +14,11 @@
             "type": ["quick open", "go to file"],
             "windows": "strg + P",
             "mac": ""
+        },
+        {
+            "type": ["new window/instance"],
+            "windows": "strg + shift + N",
+            "mac": ""
         }
 
     ],
