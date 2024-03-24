@@ -110,6 +110,11 @@
             "windows": "strg + shift + [",
             "mac": ""
         },
+        {
+            "type": ["unfold region", "uncollapse region"],
+            "windows": "strg + shift + ]",
+            "mac": ""
+        },
 
     ],
     "status": 200,
