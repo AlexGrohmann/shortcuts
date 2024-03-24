@@ -12,12 +12,12 @@ def interact():
 
     for shortcut in data["shortcuts"]:
         for key in shortcut["type"]:
-            if key == user_input:
+            if user_input.lower() in str(key).lower():
                 print(key.center(40, "#"))
                 print("\nWindows: " + shortcut["windows"])
                 print("Mac:     " + shortcut["mac"] + "\n")
                 print("#".center(40, "#") + "\n")
-        interact()
+    interact()
 
 
 if __name__ == "__main__":
