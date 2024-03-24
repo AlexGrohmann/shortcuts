@@ -104,7 +104,12 @@
             "type": ["scroll page up/down"],
             "windows": "alt + PgUp /PgDn",
             "mac": ""
-        }
+        },
+        {
+            "type": ["fold region", "collapse region"],
+            "windows": "strg + shift + [",
+            "mac": ""
+        },
 
     ],
     "status": 200,
