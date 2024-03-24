@@ -94,6 +94,11 @@
             "type": ["go to end of file"],
             "windows": "strg + End",
             "mac": ""
+        },
+        {
+            "type": ["Scroll line up/down"],
+            "windows": "strg + key[up/down]",
+            "mac": ""
         }
 
     ],
