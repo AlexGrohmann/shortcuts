@@ -169,6 +169,11 @@
             "type": ["go to line"],
             "windows": "strg + G",
             "mac": ""
+        },
+        {
+            "type": ["go to file"],
+            "windows": "strg + P",
+            "mac": ""
         }
 
     ],
