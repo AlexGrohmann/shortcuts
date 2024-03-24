@@ -39,6 +39,11 @@
             "type": ["Cut line"],
             "windows": "strg + X",
             "mac": ""
+        },
+        {
+            "type": ["Copy line"],
+            "windows": "strg + C",
+            "mac": ""
         }
 
     ],
