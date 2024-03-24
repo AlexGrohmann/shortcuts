@@ -125,6 +125,11 @@
             "windows": "strg + K + strg + ]",
             "mac": ""
         },
+        {
+            "type": ["fold all regions", "collapse all regions"],
+            "windows": "strg + K strg + O",
+            "mac": ""
+        },
 
     ],
     "status": 200,
