@@ -254,6 +254,11 @@
             "type": ["insert cursor above/below"],
             "windows": "strg + alt + arrow[up/down]",
             "mac": ""
+        },
+        {
+            "type": ["undo last cursor operation"],
+            "windows": "strg + U",
+            "mac": ""
         }
 
     ],
