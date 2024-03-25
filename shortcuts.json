@@ -259,6 +259,11 @@
             "type": ["undo last cursor operation"],
             "windows": "strg + U",
             "mac": ""
+        },
+        {
+            "type": ["insert cursor at end of each line selected"],
+            "windows": "shift + alt + I",
+            "mac": ""
         }
 
     ],
