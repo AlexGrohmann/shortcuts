@@ -299,6 +299,11 @@
             "type": ["column (box) selection"],
             "windows": "strg + shift + alt + [arrow key]",
             "mac": ""
+        },
+        {
+            "type": ["column (box) selection page up/down"],
+            "windows": "strg + shift + alt + PgUp/Pg/Dn",
+            "mac": ""
         }
 
     ],
