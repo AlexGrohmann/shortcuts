@@ -507,6 +507,13 @@
             ],
             "windows": "F2",
             "mac": ""
+        },
+        {
+            "type": [
+                "trim trailing whitespace"
+            ],
+            "windows": "strg + K strg + X",
+            "mac": ""
         }
     ],
     "status": 200,
