@@ -274,6 +274,11 @@
             "type": ["select all occurrences of current selection"],
             "windows": "strg + shift + L",
             "mac": ""
+        },
+        {
+            "type": ["select all occurrences of current word"],
+            "windows": "strg + F2",
+            "mac": ""
         }
 
     ],
