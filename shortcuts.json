@@ -528,6 +528,13 @@
             ],
             "windows": "strg + F4, strg + W",
             "mac": ""
+        },
+        {
+            "type": [
+                "close folder"
+            ],
+            "windows": "strg + K F",
+            "mac": ""
         }
     ],
     "status": 200,
