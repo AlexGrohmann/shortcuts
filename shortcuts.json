@@ -309,6 +309,11 @@
             "type": ["trigger suggestion"],
             "windows": "strg + space, strg + I",
             "mac": ""
+        },
+        {
+            "type": ["trigger parameter hints"],
+            "windows": "strg + shift + space",
+            "mac": ""
         }
 
     ],
