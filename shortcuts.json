@@ -249,6 +249,11 @@
             "type": ["insert cursor"],
             "windows": "alt + Click",
             "mac": ""
+        },
+        {
+            "type": ["insert cursor above/below"],
+            "windows": "strg + alt + arrow[up/down]",
+            "mac": ""
         }
 
     ],
