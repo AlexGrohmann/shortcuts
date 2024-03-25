@@ -269,6 +269,11 @@
             "type": ["select current line"],
             "windows": "strg + L",
             "mac": ""
+        },
+        {
+            "type": ["select all occurrences of current selection"],
+            "windows": "strg + shift + L",
+            "mac": ""
         }
 
     ],
