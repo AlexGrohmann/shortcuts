@@ -304,6 +304,11 @@
             "type": ["column (box) selection page up/down"],
             "windows": "strg + shift + alt + PgUp/Pg/Dn",
             "mac": ""
+        },
+        {
+            "type": ["trigger suggestion"],
+            "windows": "strg + space, strg + I",
+            "mac": ""
         }
 
     ],
