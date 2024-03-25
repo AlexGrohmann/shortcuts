@@ -556,6 +556,13 @@
             ],
             "windows": "strg + K strg + arrow[left/right]",
             "mac": ""
+        },
+        {
+            "type": [
+                "move editor left/right"
+            ],
+            "windows": "strg + shift + PgUp/PgDn",
+            "mac": ""
         }
     ],
     "status": 200,
