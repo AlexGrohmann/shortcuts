@@ -514,6 +514,13 @@
             ],
             "windows": "strg + K strg + X",
             "mac": ""
+        },
+        {
+            "type": [
+                "change file language"
+            ],
+            "windows": "strg + K M",
+            "mac": ""
         }
     ],
     "status": 200,
