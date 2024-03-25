@@ -219,6 +219,11 @@
             "type": ["replace"],
             "windows": "strg + H",
             "mac": ""
+        },
+        {
+            "type": ["find next previous"],
+            "windows": "F3 / shift + F3",
+            "mac": ""
         }
 
     ],
