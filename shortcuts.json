@@ -493,6 +493,13 @@
             ],
             "windows": "strg + .",
             "mac": ""
+        },
+        {
+            "type": [
+                "show references"
+            ],
+            "windows": "shift + F12",
+            "mac": ""
         }
     ],
     "status": 200,
