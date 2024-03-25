@@ -465,6 +465,13 @@
             ],
             "windows": "strg + K strg + F",
             "mac": ""
+        },
+        {
+            "type": [
+                "go to definition"
+            ],
+            "windows": "F12",
+            "mac": ""
         }
     ],
     "status": 200,
