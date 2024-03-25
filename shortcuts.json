@@ -521,6 +521,13 @@
             ],
             "windows": "strg + K M",
             "mac": ""
+        },
+        {
+            "type": [
+                "close editor"
+            ],
+            "windows": "strg + F4, strg + W",
+            "mac": ""
         }
     ],
     "status": 200,
