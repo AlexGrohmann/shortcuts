@@ -234,6 +234,11 @@
             "type": ["add selection to next find match"],
             "windows": "strg + D",
             "mac": ""
+        },
+        {
+            "type": ["move last selection to next find match"],
+            "windows": "strg + K strg + D",
+            "mac": ""
         }
 
     ],
