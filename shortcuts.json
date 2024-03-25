@@ -244,6 +244,11 @@
             "type": ["toggle case-sensitive / regex / whole word"],
             "windows": "alt + C / R / W",
             "mac": ""
+        },
+        {
+            "type": ["insert cursor"],
+            "windows": "alt + Click",
+            "mac": ""
         }
 
     ],
