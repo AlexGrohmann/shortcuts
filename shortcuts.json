@@ -458,6 +458,13 @@
             ],
             "windows": "shift + alt + F",
             "mac": ""
+        },
+        {
+            "type": [
+                "format selection"
+            ],
+            "windows": "strg + K strg + F",
+            "mac": ""
         }
     ],
     "status": 200,
