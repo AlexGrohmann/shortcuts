@@ -500,6 +500,13 @@
             ],
             "windows": "shift + F12",
             "mac": ""
+        },
+        {
+            "type": [
+                "rename symbol"
+            ],
+            "windows": "F2",
+            "mac": ""
         }
     ],
     "status": 200,
