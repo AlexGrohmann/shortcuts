@@ -239,6 +239,11 @@
             "type": ["move last selection to next find match"],
             "windows": "strg + K strg + D",
             "mac": ""
+        },
+        {
+            "type": ["toggle case-sensitive / regex / whole word"],
+            "windows": "alt + C / R / W",
+            "mac": ""
         }
 
     ],
