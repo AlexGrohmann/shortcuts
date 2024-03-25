@@ -294,6 +294,11 @@
             "type": ["column (box) selection"],
             "windows": "shift + alt + [drag mouse]",
             "mac": ""
+        },
+        {
+            "type": ["column (box) selection"],
+            "windows": "strg + shift + alt + [arrow key]",
+            "mac": ""
         }
 
     ],
