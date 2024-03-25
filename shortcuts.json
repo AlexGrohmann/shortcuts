@@ -563,6 +563,13 @@
             ],
             "windows": "strg + shift + PgUp/PgDn",
             "mac": ""
+        },
+        {
+            "type": [
+                "move active editor group"
+            ],
+            "windows": "strg + K arrow[left/right]",
+            "mac": ""
         }
     ],
     "status": 200,
