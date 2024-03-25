@@ -229,6 +229,11 @@
             "type": ["select all occurences of find match"],
             "windows": "alt + Enter",
             "mac": ""
+        },
+        {
+            "type": ["add selection to next find match"],
+            "windows": "strg + D",
+            "mac": ""
         }
 
     ],
