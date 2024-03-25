@@ -472,6 +472,13 @@
             ],
             "windows": "F12",
             "mac": ""
+        },
+        {
+            "type": [
+                "peek definition"
+            ],
+            "windows": "alt + F12",
+            "mac": ""
         }
     ],
     "status": 200,
