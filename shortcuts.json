@@ -264,6 +264,11 @@
             "type": ["insert cursor at end of each line selected"],
             "windows": "shift + alt + I",
             "mac": ""
+        },
+        {
+            "type": ["select current line"],
+            "windows": "strg + L",
+            "mac": ""
         }
 
     ],
