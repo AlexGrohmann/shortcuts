@@ -542,6 +542,13 @@
             ],
             "windows": "strg + backslash",
             "mac": ""
+        },
+        {
+            "type": [
+                "focus into 1st, 2nd or 3rd editor group"
+            ],
+            "windows": "strg + 1 / 2 / 3",
+            "mac": ""
         }
     ],
     "status": 200,
