@@ -535,6 +535,13 @@
             ],
             "windows": "strg + K F",
             "mac": ""
+        },
+        {
+            "type": [
+                "split editor"
+            ],
+            "windows": "strg + backslash",
+            "mac": ""
         }
     ],
     "status": 200,
