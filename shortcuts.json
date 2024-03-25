@@ -314,6 +314,11 @@
             "type": ["trigger parameter hints"],
             "windows": "strg + shift + space",
             "mac": ""
+        },
+        {
+            "type": ["format document"],
+            "windows": "shift + alt + F",
+            "mac": ""
         }
 
     ],
