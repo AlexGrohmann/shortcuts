@@ -549,6 +549,13 @@
             ],
             "windows": "strg + 1 / 2 / 3",
             "mac": ""
+        },
+        {
+            "type": [
+                "focus into previous/next editor group"
+            ],
+            "windows": "strg + K strg + arrow[left/right]",
+            "mac": ""
         }
     ],
     "status": 200,
