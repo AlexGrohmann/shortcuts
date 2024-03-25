@@ -1,326 +1,464 @@
 {
     "shortcuts": [
         {
-            "type": ["copy", "kopieren", "c"],
+            "type": [
+                "copy",
+                "kopieren",
+                "c"
+            ],
             "windows": "strg + c",
             "mac": "command + c"
         },
         {
-            "type": ["show Command Palette", "--run"],
+            "type": [
+                "show Command Palette",
+                "--run"
+            ],
             "windows": "strg + shift + P or F1",
             "mac": "⇧⌘P, F1"
         },
         {
-            "type": ["quick open", "go to file"],
+            "type": [
+                "quick open",
+                "go to file"
+            ],
             "windows": "strg + P",
             "mac": "⌘P"
         },
         {
-            "type": ["new window/instance"],
+            "type": [
+                "new window/instance"
+            ],
             "windows": "strg + shift + N",
             "mac": "⇧⌘N"
         },
         {
-            "type": ["close window/instance"],
+            "type": [
+                "close window/instance"
+            ],
             "windows": "strg + shift + W",
             "mac": "⌘W"
         },
         {
-            "type": ["user settings"],
+            "type": [
+                "user settings"
+            ],
             "windows": "strg + ,",
             "mac": "⌘,"
         },
         {
-            "type": ["keyboard shortcuts", "--help"],
+            "type": [
+                "keyboard shortcuts",
+                "--help"
+            ],
             "windows": "strg + K strg + S",
             "mac": "⌘K ⌘S"
         },
         {
-            "type": ["Cut line"],
+            "type": [
+                "Cut line"
+            ],
             "windows": "strg + X",
             "mac": "⌘X"
         },
         {
-            "type": ["Copy line"],
+            "type": [
+                "Copy line"
+            ],
             "windows": "strg + C",
             "mac": "⌘C"
         },
         {
-            "type": ["move line up/down"],
+            "type": [
+                "move line up/down"
+            ],
             "windows": "alt + key[up,down]",
             "mac": "⌥↓ / ⌥↑"
         },
         {
-            "type": ["copy line up/down"],
+            "type": [
+                "copy line up/down"
+            ],
             "windows": "shift + alt + key[up,down]",
             "mac": "⇧⌥↓ / ⇧⌥↑"
         },
         {
-            "type": ["delete line"],
+            "type": [
+                "delete line"
+            ],
             "windows": "strg + shift + K",
             "mac": "⇧⌘K"
         },
         {
-            "type": ["insert line below"],
+            "type": [
+                "insert line below"
+            ],
             "windows": "strg + Enter",
             "mac": "⌘Enter"
         },
         {
-            "type": ["insert line above"],
+            "type": [
+                "insert line above"
+            ],
             "windows": "strg + shift + Enter",
             "mac": "⇧⌘Enter"
         },
         {
-            "type": ["jump to matching bracket"],
+            "type": [
+                "jump to matching bracket"
+            ],
             "windows": "strg + shift + [reversed /]",
             "mac": "⇧⌘[backshift]"
         },
         {
-            "type": ["indent/outdent line"],
+            "type": [
+                "indent/outdent line"
+            ],
             "windows": "strg + ] / [",
             "mac": "⌘] / ⌘["
         },
         {
-            "type": ["go to beginning/end of line"],
+            "type": [
+                "go to beginning/end of line"
+            ],
             "windows": "Home / end",
             "mac": "Home / End"
         },
         {
-            "type": ["go to beginning of file"],
+            "type": [
+                "go to beginning of file"
+            ],
             "windows": "strg + Home",
             "mac": "⌘↑"
         },
         {
-            "type": ["go to end of file"],
+            "type": [
+                "go to end of file"
+            ],
             "windows": "strg + End",
             "mac": "⌘↓"
         },
         {
-            "type": ["Scroll line up/down"],
+            "type": [
+                "Scroll line up/down"
+            ],
             "windows": "strg + key[up/down]",
             "mac": "⌃PgUp / ⌃PgDn"
         },
         {
-            "type": ["scroll page up/down"],
+            "type": [
+                "scroll page up/down"
+            ],
             "windows": "alt + PgUp /PgDn",
             "mac": "⌘PgUp /⌘PgDn"
         },
         {
-            "type": ["fold region", "collapse region"],
+            "type": [
+                "fold region",
+                "collapse region"
+            ],
             "windows": "strg + shift + [",
             "mac": "⌥⌘["
         },
         {
-            "type": ["unfold region", "uncollapse region"],
+            "type": [
+                "unfold region",
+                "uncollapse region"
+            ],
             "windows": "strg + shift + ]",
             "mac": "⌥⌘]"
         },
         {
-            "type": ["fold all subregions", "collapse all subregions"],
+            "type": [
+                "fold all subregions",
+                "collapse all subregions"
+            ],
             "windows": "strg + K strg + [",
             "mac": "⌘K ⌘["
         },
         {
-            "type": ["unfold all subregions", "uncollapse all subregions"],
+            "type": [
+                "unfold all subregions",
+                "uncollapse all subregions"
+            ],
             "windows": "strg + K strg + ]",
             "mac": "⌘K ⌘]"
         },
         {
-            "type": ["fold all regions", "collapse all regions"],
+            "type": [
+                "fold all regions",
+                "collapse all regions"
+            ],
             "windows": "strg + K strg + O",
             "mac": "⌘K ⌘O"
         },
         {
-            "type": ["unfold all regions", "uncollapse all regions"],
+            "type": [
+                "unfold all regions",
+                "uncollapse all regions"
+            ],
             "windows": "strg + K strg + J",
             "mac": "⌘K ⌘J"
         },
         {
-            "type": ["add line comment"],
+            "type": [
+                "add line comment"
+            ],
             "windows": "strg + K strg + C",
             "mac": "⌘K ⌘C"
         },
         {
-            "type": ["remove line comment"],
+            "type": [
+                "remove line comment"
+            ],
             "windows": "strg + K strg + C",
             "mac": "⌘K ⌘U"
         },
         {
-            "type": ["toggle line comment"],
+            "type": [
+                "toggle line comment"
+            ],
             "windows": "strg + /",
             "mac": "⌘/"
         },
         {
-            "type": ["toggle block comment"],
+            "type": [
+                "toggle block comment"
+            ],
             "windows": "shift + alt + A",
             "mac": "⇧⌥A"
         },
         {
-            "type": ["toggle word wrap"],
+            "type": [
+                "toggle word wrap"
+            ],
             "windows": "alt + Z",
             "mac": "⌥Z"
         },
         {
-            "type": ["show all symbols"],
+            "type": [
+                "show all symbols"
+            ],
             "windows": "strg + T",
             "mac": "⌘T"
         },
         {
-            "type": ["go to line"],
+            "type": [
+                "go to line"
+            ],
             "windows": "strg + G",
             "mac": "⌃G"
         },
         {
-            "type": ["go to file"],
+            "type": [
+                "go to file"
+            ],
             "windows": "strg + P",
             "mac": "⌘P"
         },
         {
-            "type": ["go to symbol"],
+            "type": [
+                "go to symbol"
+            ],
             "windows": "strg + shift + O",
             "mac": "⇧⌘O"
         },
         {
-            "type": ["show problems panel"],
+            "type": [
+                "show problems panel"
+            ],
             "windows": "strg + shift + M",
             "mac": "⇧⌘M"
         },
         {
-            "type": ["go to next error or warning"],
+            "type": [
+                "go to next error or warning"
+            ],
             "windows": "F8",
             "mac": "F8"
         },
         {
-            "type": ["go to previous error or warning"],
+            "type": [
+                "go to previous error or warning"
+            ],
             "windows": "shift + F8",
             "mac": " ⇧F8"
         },
         {
-            "type": ["navigate editor group history"],
+            "type": [
+                "navigate editor group history"
+            ],
             "windows": "strg + shift + Tab",
             "mac": "⌃⇧Tab"
         },
         {
-            "type": ["go back / forward"],
+            "type": [
+                "go back / forward"
+            ],
             "windows": "alt + arrow[left/right]",
             "mac": "⌃- / ⌃⇧-"
         },
         {
-            "type": ["toggle tab moves focus"],
+            "type": [
+                "toggle tab moves focus"
+            ],
             "windows": "strg + M",
             "mac": "⌃⇧M"
         },
         {
-            "type": ["find"],
+            "type": [
+                "find"
+            ],
             "windows": "strg + F",
             "mac": ""
         },
         {
-            "type": ["replace"],
+            "type": [
+                "replace"
+            ],
             "windows": "strg + H",
             "mac": ""
         },
         {
-            "type": ["find next previous"],
+            "type": [
+                "find next previous"
+            ],
             "windows": "F3 / shift + F3",
             "mac": ""
         },
         {
-            "type": ["select all occurences of find match"],
+            "type": [
+                "select all occurences of find match"
+            ],
             "windows": "alt + Enter",
             "mac": ""
         },
         {
-            "type": ["add selection to next find match"],
+            "type": [
+                "add selection to next find match"
+            ],
             "windows": "strg + D",
             "mac": ""
         },
         {
-            "type": ["move last selection to next find match"],
+            "type": [
+                "move last selection to next find match"
+            ],
             "windows": "strg + K strg + D",
             "mac": ""
         },
         {
-            "type": ["toggle case-sensitive / regex / whole word"],
+            "type": [
+                "toggle case-sensitive / regex / whole word"
+            ],
             "windows": "alt + C / R / W",
             "mac": ""
         },
         {
-            "type": ["insert cursor"],
+            "type": [
+                "insert cursor"
+            ],
             "windows": "alt + Click",
             "mac": ""
         },
         {
-            "type": ["insert cursor above/below"],
+            "type": [
+                "insert cursor above/below"
+            ],
             "windows": "strg + alt + arrow[up/down]",
             "mac": ""
         },
         {
-            "type": ["undo last cursor operation"],
+            "type": [
+                "undo last cursor operation"
+            ],
             "windows": "strg + U",
             "mac": ""
         },
         {
-            "type": ["insert cursor at end of each line selected"],
+            "type": [
+                "insert cursor at end of each line selected"
+            ],
             "windows": "shift + alt + I",
             "mac": ""
         },
         {
-            "type": ["select current line"],
+            "type": [
+                "select current line"
+            ],
             "windows": "strg + L",
             "mac": ""
         },
         {
-            "type": ["select all occurrences of current selection"],
+            "type": [
+                "select all occurrences of current selection"
+            ],
             "windows": "strg + shift + L",
             "mac": ""
         },
         {
-            "type": ["select all occurrences of current word"],
+            "type": [
+                "select all occurrences of current word"
+            ],
             "windows": "strg + F2",
             "mac": ""
         },
         {
-            "type": ["expand selection"],
+            "type": [
+                "expand selection"
+            ],
             "windows": "shift + alt + arrow[right]",
             "mac": ""
         },
         {
-            "type": ["shrink selection"],
+            "type": [
+                "shrink selection"
+            ],
             "windows": "shift + alt + arrow[left]",
             "mac": ""
         },
         {
-            "type": ["column (box) selection"],
+            "type": [
+                "column (box) selection"
+            ],
             "windows": "shift + alt + [drag mouse]",
             "mac": ""
         },
         {
-            "type": ["column (box) selection"],
+            "type": [
+                "column (box) selection"
+            ],
             "windows": "strg + shift + alt + [arrow key]",
             "mac": ""
         },
         {
-            "type": ["column (box) selection page up/down"],
+            "type": [
+                "column (box) selection page up/down"
+            ],
             "windows": "strg + shift + alt + PgUp/Pg/Dn",
             "mac": ""
         },
         {
-            "type": ["trigger suggestion"],
+            "type": [
+                "trigger suggestion"
+            ],
             "windows": "strg + space, strg + I",
             "mac": ""
         },
         {
-            "type": ["trigger parameter hints"],
+            "type": [
+                "trigger parameter hints"
+            ],
             "windows": "strg + shift + space",
             "mac": ""
         },
         {
-            "type": ["format document"],
+            "type": [
+                "format document"
+            ],
             "windows": "shift + alt + F",
             "mac": ""
         }
-
     ],
     "status": 200,
     "success": true
