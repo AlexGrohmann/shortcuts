@@ -214,6 +214,11 @@
             "type": ["find"],
             "windows": "strg + F",
             "mac": ""
+        },
+        {
+            "type": ["replace"],
+            "windows": "strg + H",
+            "mac": ""
         }
 
     ],
