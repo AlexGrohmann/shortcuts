@@ -486,6 +486,13 @@
             ],
             "windows": "strg + K F12",
             "mac": ""
+        },
+        {
+            "type": [
+                "quick fix"
+            ],
+            "windows": "strg + .",
+            "mac": ""
         }
     ],
     "status": 200,
