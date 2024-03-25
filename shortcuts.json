@@ -479,6 +479,13 @@
             ],
             "windows": "alt + F12",
             "mac": ""
+        },
+        {
+            "type": [
+                "open definition to the side"
+            ],
+            "windows": "strg + K F12",
+            "mac": ""
         }
     ],
     "status": 200,
