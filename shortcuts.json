@@ -224,6 +224,11 @@
             "type": ["find next previous"],
             "windows": "F3 / shift + F3",
             "mac": ""
+        },
+        {
+            "type": ["select all occurences of find match"],
+            "windows": "alt + Enter",
+            "mac": ""
         }
 
     ],
