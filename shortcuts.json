@@ -209,6 +209,11 @@
             "type": ["toggle tab moves focus"],
             "windows": "strg + M",
             "mac": "⌃⇧M"
+        },
+        {
+            "type": ["find"],
+            "windows": "strg + F",
+            "mac": ""
         }
 
     ],
