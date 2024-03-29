@@ -598,6 +598,13 @@
             ],
             "windows": "strg + shift + S",
             "mac": ""
+        },
+        {
+            "type": [
+                "save all"
+            ],
+            "windows": "strg + K S",
+            "mac": ""
         }
     ],
     "status": 200,
