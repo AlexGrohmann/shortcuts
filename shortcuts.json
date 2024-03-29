@@ -661,6 +661,13 @@
             ],
             "windows": "strg + K R",
             "mac": ""
+        },
+        {
+            "type": [
+                "show active file in new window/instance"
+            ],
+            "windows": "strg + K O",
+            "mac": ""
         }
     ],
     "status": 200,
