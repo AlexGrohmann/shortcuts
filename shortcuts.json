@@ -619,6 +619,13 @@
             ],
             "windows": "strg + K strg + W",
             "mac": ""
+        },
+        {
+            "type": [
+                "reopen closed editor"
+            ],
+            "windows": "strg + shift + T",
+            "mac": ""
         }
     ],
     "status": 200,
