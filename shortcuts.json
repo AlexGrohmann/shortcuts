@@ -640,6 +640,13 @@
             ],
             "windows": "strg + Tab",
             "mac": ""
+        },
+        {
+            "type": [
+                "open previous"
+            ],
+            "windows": "strg + shift + Tab",
+            "mac": ""
         }
     ],
     "status": 200,
