@@ -612,6 +612,13 @@
             ],
             "windows": "strg + F4",
             "mac": ""
+        },
+        {
+            "type": [
+                "close all"
+            ],
+            "windows": "strg + K strg + W",
+            "mac": ""
         }
     ],
     "status": 200,
