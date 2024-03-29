@@ -626,6 +626,13 @@
             ],
             "windows": "strg + shift + T",
             "mac": ""
+        },
+        {
+            "type": [
+                "keep preview mode editor open"
+            ],
+            "windows": "strg + K Enter",
+            "mac": ""
         }
     ],
     "status": 200,
