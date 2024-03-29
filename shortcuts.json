@@ -647,6 +647,13 @@
             ],
             "windows": "strg + shift + Tab",
             "mac": ""
+        },
+        {
+            "type": [
+                "copy path of active file"
+            ],
+            "windows": "strg + K P",
+            "mac": ""
         }
     ],
     "status": 200,
