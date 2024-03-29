@@ -584,6 +584,13 @@
             ],
             "windows": "strg + O",
             "mac": ""
+        },
+        {
+            "type": [
+                "save"
+            ],
+            "windows": "strg + S",
+            "mac": ""
         }
     ],
     "status": 200,
