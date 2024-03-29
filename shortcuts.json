@@ -633,6 +633,13 @@
             ],
             "windows": "strg + K Enter",
             "mac": ""
+        },
+        {
+            "type": [
+                "open next"
+            ],
+            "windows": "strg + Tab",
+            "mac": ""
         }
     ],
     "status": 200,
