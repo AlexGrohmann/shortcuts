@@ -654,6 +654,13 @@
             ],
             "windows": "strg + K P",
             "mac": ""
+        },
+        {
+            "type": [
+                "reveal active file in explorer"
+            ],
+            "windows": "strg + K R",
+            "mac": ""
         }
     ],
     "status": 200,
