@@ -570,6 +570,13 @@
             ],
             "windows": "strg + K arrow[left/right]",
             "mac": ""
+        },
+        {
+            "type": [
+                "new file"
+            ],
+            "windows": "strg + N",
+            "mac": ""
         }
     ],
     "status": 200,
