@@ -577,6 +577,13 @@
             ],
             "windows": "strg + N",
             "mac": ""
+        },
+        {
+            "type": [
+                "open file"
+            ],
+            "windows": "strg + O",
+            "mac": ""
         }
     ],
     "status": 200,
