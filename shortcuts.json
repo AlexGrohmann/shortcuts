@@ -701,7 +701,7 @@
             "type": [
                 "show Explorer / Toggle focus"
             ],
-            "windows": "strg + B",
+            "windows": "strg + shift + E",
             "mac": ""
         }
     ],
