@@ -689,6 +689,13 @@
             ],
             "windows": "strg + +/-",
             "mac": ""
+        },
+        {
+            "type": [
+                "toggle sidebar visibility"
+            ],
+            "windows": "strg + B",
+            "mac": ""
         }
     ],
     "status": 200,
