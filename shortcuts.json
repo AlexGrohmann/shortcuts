@@ -724,6 +724,13 @@
             ],
             "windows": "strg + shift + D",
             "mac": ""
+        },
+        {
+            "type": [
+                "show extensions"
+            ],
+            "windows": "strg + shift + X",
+            "mac": ""
         }
     ],
     "status": 200,
