@@ -682,6 +682,13 @@
             ],
             "windows": "shift + alt + O",
             "mac": ""
+        },
+        {
+            "type": [
+                "Zoom in/out"
+            ],
+            "windows": "strg + +/-",
+            "mac": ""
         }
     ],
     "status": 200,
