@@ -668,6 +668,13 @@
             ],
             "windows": "strg + K O",
             "mac": ""
+        },
+        {
+            "type": [
+                "toggle fullscreen"
+            ],
+            "windows": "F11",
+            "mac": ""
         }
     ],
     "status": 200,
