@@ -675,6 +675,13 @@
             ],
             "windows": "F11",
             "mac": ""
+        },
+        {
+            "type": [
+                "toggle editor layout (horizontal/vertical)"
+            ],
+            "windows": "shift + alt + O",
+            "mac": ""
         }
     ],
     "status": 200,
