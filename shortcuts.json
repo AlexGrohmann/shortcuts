@@ -745,6 +745,13 @@
             ],
             "windows": "strg + shift + J",
             "mac": ""
+        },
+        {
+            "type": [
+                "show output panel"
+            ],
+            "windows": "strg + shift + U",
+            "mac": ""
         }
     ],
     "status": 200,
