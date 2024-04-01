@@ -696,6 +696,13 @@
             ],
             "windows": "strg + B",
             "mac": ""
+        },
+        {
+            "type": [
+                "show Explorer / Toggle focus"
+            ],
+            "windows": "strg + B",
+            "mac": ""
         }
     ],
     "status": 200,
