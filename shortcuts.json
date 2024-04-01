@@ -710,6 +710,13 @@
             ],
             "windows": "strg + shift + F",
             "mac": ""
+        },
+        {
+            "type": [
+                "show source control"
+            ],
+            "windows": "strg + shift + G",
+            "mac": ""
         }
     ],
     "status": 200,
