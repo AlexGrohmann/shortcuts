@@ -717,6 +717,13 @@
             ],
             "windows": "strg + shift + G",
             "mac": ""
+        },
+        {
+            "type": [
+                "show debug"
+            ],
+            "windows": "strg + shift + D",
+            "mac": ""
         }
     ],
     "status": 200,
