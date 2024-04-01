@@ -752,6 +752,13 @@
             ],
             "windows": "strg + shift + U",
             "mac": ""
+        },
+        {
+            "type": [
+                "open markdown preview"
+            ],
+            "windows": "strg + shift + V",
+            "mac": ""
         }
     ],
     "status": 200,
