@@ -703,6 +703,13 @@
             ],
             "windows": "strg + shift + E",
             "mac": ""
+        },
+        {
+            "type": [
+                "show search"
+            ],
+            "windows": "strg + shift + F",
+            "mac": ""
         }
     ],
     "status": 200,
