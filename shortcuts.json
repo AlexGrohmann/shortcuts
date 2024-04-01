@@ -738,6 +738,13 @@
             ],
             "windows": "strg + shift + H",
             "mac": ""
+        },
+        {
+            "type": [
+                "toggle search details"
+            ],
+            "windows": "strg + shift + J",
+            "mac": ""
         }
     ],
     "status": 200,
