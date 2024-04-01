@@ -766,6 +766,13 @@
             ],
             "windows": "strg + K V",
             "mac": ""
+        },
+        {
+            "type": [
+                "Zen mode (esc esc to exit)"
+            ],
+            "windows": "strg + K Z",
+            "mac": ""
         }
     ],
     "status": 200,
