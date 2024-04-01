@@ -731,6 +731,13 @@
             ],
             "windows": "strg + shift + X",
             "mac": ""
+        },
+        {
+            "type": [
+                "replace in files"
+            ],
+            "windows": "strg + shift + H",
+            "mac": ""
         }
     ],
     "status": 200,
