@@ -815,6 +815,13 @@
             ],
             "windows": "strg + K strg + I",
             "mac": ""
+        },
+        {
+            "type": [
+                "show integrated terminal"
+            ],
+            "windows": "strg + J",
+            "mac": ""
         }
     ],
     "status": 200,
