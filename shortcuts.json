@@ -780,6 +780,13 @@
             ],
             "windows": "F9",
             "mac": ""
+        },
+        {
+            "type": [
+                "start / continue"
+            ],
+            "windows": "F5",
+            "mac": ""
         }
     ],
     "status": 200,
