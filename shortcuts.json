@@ -808,6 +808,13 @@
             ],
             "windows": "F10",
             "mac": ""
+        },
+        {
+            "type": [
+                "show hover"
+            ],
+            "windows": "strg + K strg + I",
+            "mac": ""
         }
     ],
     "status": 200,
