@@ -794,6 +794,13 @@
             ],
             "windows": "shift + F5",
             "mac": ""
+        },
+        {
+            "type": [
+                "step into / out"
+            ],
+            "windows": "F11 / shift + F11",
+            "mac": ""
         }
     ],
     "status": 200,
