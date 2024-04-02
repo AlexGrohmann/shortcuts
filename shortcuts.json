@@ -801,6 +801,13 @@
             ],
             "windows": "F11 / shift + F11",
             "mac": ""
+        },
+        {
+            "type": [
+                "step over"
+            ],
+            "windows": "F10",
+            "mac": ""
         }
     ],
     "status": 200,
