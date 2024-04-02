@@ -773,6 +773,13 @@
             ],
             "windows": "strg + K Z",
             "mac": ""
+        },
+        {
+            "type": [
+                "toggle breakpoint"
+            ],
+            "windows": "F9",
+            "mac": ""
         }
     ],
     "status": 200,
