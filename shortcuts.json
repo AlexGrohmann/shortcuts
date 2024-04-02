@@ -787,6 +787,13 @@
             ],
             "windows": "F5",
             "mac": ""
+        },
+        {
+            "type": [
+                "stop"
+            ],
+            "windows": "shift + F5",
+            "mac": ""
         }
     ],
     "status": 200,
