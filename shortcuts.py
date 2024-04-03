@@ -18,6 +18,6 @@ def interact():
                 print("Mac:     " + shortcut["mac"] + "\n")
                 print("#".center(40, "#") + "\n")
     interact()
-# hallo janine
+
 if __name__ == "__main__":
     interact()
