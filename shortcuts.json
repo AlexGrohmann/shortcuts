@@ -51,6 +51,7 @@
                 "keyboard shortcuts",
                 "--help"
             ],
+            "favourite": "Yes",
             "windows": "strg + K strg + S",
             "mac": "⌘K ⌘S"
         },
