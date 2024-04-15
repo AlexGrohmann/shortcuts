@@ -38,6 +38,5 @@ def interact():
                     print("#".center(40, "#") + "\n")
     interact()
 
-
 if __name__ == "__main__":
     interact()
