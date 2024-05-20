@@ -15,7 +15,7 @@
                 "--run"
             ],
             "windows": "strg + shift + P or F1",
-            "mac": "⇧⌘P, F1"
+            "mac": "⇧command + P, F1"
         },
         {
             "type": [
@@ -23,28 +23,28 @@
                 "go to file"
             ],
             "windows": "strg + P",
-            "mac": "⌘P"
+            "mac": "command + P"
         },
         {
             "type": [
                 "new window/instance"
             ],
             "windows": "strg + shift + N",
-            "mac": "⇧⌘N"
+            "mac": "⇧command + N"
         },
         {
             "type": [
                 "close window/instance"
             ],
             "windows": "strg + shift + W",
-            "mac": "⌘W"
+            "mac": "command + W"
         },
         {
             "type": [
                 "user settings"
             ],
             "windows": "strg + ,",
-            "mac": "⌘,"
+            "mac": "command + ,"
         },
         {
             "type": [
@@ -53,21 +53,21 @@
             ],
             "favourite": "Yes",
             "windows": "strg + K strg + S",
-            "mac": "⌘K ⌘S"
+            "mac": "command + K command + S"
         },
         {
             "type": [
                 "Cut line"
             ],
             "windows": "strg + X",
-            "mac": "⌘X"
+            "mac": "command + X"
         },
         {
             "type": [
                 "Copy line"
             ],
             "windows": "strg + C",
-            "mac": "⌘C"
+            "mac": "command + C"
         },
         {
             "type": [
@@ -88,35 +88,35 @@
                 "delete line"
             ],
             "windows": "strg + shift + K",
-            "mac": "⇧⌘K"
+            "mac": "⇧command + K"
         },
         {
             "type": [
                 "insert line below"
             ],
             "windows": "strg + Enter",
-            "mac": "⌘Enter"
+            "mac": "command + Enter"
         },
         {
             "type": [
                 "insert line above"
             ],
             "windows": "strg + shift + Enter",
-            "mac": "⇧⌘Enter"
+            "mac": "⇧command + Enter"
         },
         {
             "type": [
                 "jump to matching bracket"
             ],
             "windows": "strg + shift + [reversed /]",
-            "mac": "⇧⌘[backshift]"
+            "mac": "⇧command + [backshift]"
         },
         {
             "type": [
                 "indent/outdent line"
             ],
             "windows": "strg + ] / [",
-            "mac": "⌘] / ⌘["
+            "mac": "command + ] / command + ["
         },
         {
             "type": [
@@ -130,14 +130,14 @@
                 "go to beginning of file"
             ],
             "windows": "strg + Home",
-            "mac": "⌘↑"
+            "mac": "command + ↑"
         },
         {
             "type": [
                 "go to end of file"
             ],
             "windows": "strg + End",
-            "mac": "⌘↓"
+            "mac": "command + ↓"
         },
         {
             "type": [
@@ -151,7 +151,7 @@
                 "scroll page up/down"
             ],
             "windows": "alt + PgUp /PgDn",
-            "mac": "⌘PgUp /⌘PgDn"
+            "mac": "command + PgUp /command + PgDn"
         },
         {
             "type": [
@@ -159,7 +159,7 @@
                 "collapse region"
             ],
             "windows": "strg + shift + [",
-            "mac": "⌥⌘["
+            "mac": "⌥command + ["
         },
         {
             "type": [
@@ -167,7 +167,7 @@
                 "uncollapse region"
             ],
             "windows": "strg + shift + ]",
-            "mac": "⌥⌘]"
+            "mac": "⌥command + ]"
         },
         {
             "type": [
@@ -175,7 +175,7 @@
                 "collapse all subregions"
             ],
             "windows": "strg + K strg + [",
-            "mac": "⌘K ⌘["
+            "mac": "command + K command + ["
         },
         {
             "type": [
@@ -183,7 +183,7 @@
                 "uncollapse all subregions"
             ],
             "windows": "strg + K strg + ]",
-            "mac": "⌘K ⌘]"
+            "mac": "command + K command + ]"
         },
         {
             "type": [
@@ -191,7 +191,7 @@
                 "collapse all regions"
             ],
             "windows": "strg + K strg + O",
-            "mac": "⌘K ⌘O"
+            "mac": "command + K command + O"
         },
         {
             "type": [
@@ -199,28 +199,28 @@
                 "uncollapse all regions"
             ],
             "windows": "strg + K strg + J",
-            "mac": "⌘K ⌘J"
+            "mac": "command + K command + J"
         },
         {
             "type": [
                 "add line comment"
             ],
             "windows": "strg + K strg + C",
-            "mac": "⌘K ⌘C"
+            "mac": "command + K command + C"
         },
         {
             "type": [
                 "remove line comment"
             ],
             "windows": "strg + K strg + C",
-            "mac": "⌘K ⌘U"
+            "mac": "command + K command + U"
         },
         {
             "type": [
                 "toggle line comment"
             ],
             "windows": "strg + /",
-            "mac": "⌘/"
+            "mac": "command + /"
         },
         {
             "type": [
@@ -241,7 +241,7 @@
                 "show all symbols"
             ],
             "windows": "strg + T",
-            "mac": "⌘T"
+            "mac": "command + T"
         },
         {
             "type": [
@@ -255,21 +255,21 @@
                 "go to file"
             ],
             "windows": "strg + P",
-            "mac": "⌘P"
+            "mac": "command + P"
         },
         {
             "type": [
                 "go to symbol"
             ],
             "windows": "strg + shift + O",
-            "mac": "⇧⌘O"
+            "mac": "⇧command + O"
         },
         {
             "type": [
                 "show problems panel"
             ],
             "windows": "strg + shift + M",
-            "mac": "⇧⌘M"
+            "mac": "⇧command + M"
         },
         {
             "type": [
