@@ -15,7 +15,7 @@
                 "--run"
             ],
             "windows": "strg + shift + P or F1",
-            "mac": "⇧command + P, F1"
+            "mac": "shift + command + P, F1"
         },
         {
             "type": [
@@ -30,7 +30,7 @@
                 "new window/instance"
             ],
             "windows": "strg + shift + N",
-            "mac": "⇧command + N"
+            "mac": "shift + command + N"
         },
         {
             "type": [
@@ -81,14 +81,14 @@
                 "copy line up/down"
             ],
             "windows": "shift + alt + key[up,down]",
-            "mac": "⇧⌥↓ / ⇧⌥↑"
+            "mac": "shift + ⌥↓ / shift + ⌥↑"
         },
         {
             "type": [
                 "delete line"
             ],
             "windows": "strg + shift + K",
-            "mac": "⇧command + K"
+            "mac": "shift + command + K"
         },
         {
             "type": [
@@ -102,14 +102,14 @@
                 "insert line above"
             ],
             "windows": "strg + shift + Enter",
-            "mac": "⇧command + Enter"
+            "mac": "shift + command + Enter"
         },
         {
             "type": [
                 "jump to matching bracket"
             ],
             "windows": "strg + shift + [reversed /]",
-            "mac": "⇧command + [backshift]"
+            "mac": "shift + command + [backshift]"
         },
         {
             "type": [
@@ -227,7 +227,7 @@
                 "toggle block comment"
             ],
             "windows": "shift + alt + A",
-            "mac": "⇧⌥A"
+            "mac": "shift + ⌥A"
         },
         {
             "type": [
@@ -262,14 +262,14 @@
                 "go to symbol"
             ],
             "windows": "strg + shift + O",
-            "mac": "⇧command + O"
+            "mac": "shift + command + O"
         },
         {
             "type": [
                 "show problems panel"
             ],
             "windows": "strg + shift + M",
-            "mac": "⇧command + M"
+            "mac": "shift + command + M"
         },
         {
             "type": [
@@ -283,28 +283,28 @@
                 "go to previous error or warning"
             ],
             "windows": "shift + F8",
-            "mac": " ⇧F8"
+            "mac": " shift + F8"
         },
         {
             "type": [
                 "navigate editor group history"
             ],
             "windows": "strg + shift + Tab",
-            "mac": "⌃⇧Tab"
+            "mac": "⌃shift + Tab"
         },
         {
             "type": [
                 "go back / forward"
             ],
             "windows": "alt + arrow[left/right]",
-            "mac": "⌃- / ⌃⇧-"
+            "mac": "⌃- / ⌃shift + -"
         },
         {
             "type": [
                 "toggle tab moves focus"
             ],
             "windows": "strg + M",
-            "mac": "⌃⇧M"
+            "mac": "⌃shift + M"
         },
         {
             "type": [
